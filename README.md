@@ -1,3 +1,7 @@
+<img src="https://github.com/vasugajera77788/vasugajera77788/blob/main/Blue%20Futuristic%20Technology%20Presentation%20(Postcards).png" 
+     width="200" 
+     height="100" 
+     alt="Cyber Security Logo">
 ![logo](https://github.com/vasugajera77788/vasugajera77788/blob/main/Blue%20Futuristic%20Technology%20Presentation%20(Postcards).png)
 <h1 align="center">Hi 👋, I'm Vasu gajera</h1>
 <h3 align="center">A passionate cybersecurity student.</h3>
