@@ -1,5 +1,5 @@
 <img src="https://github.com/vasugajera77788/vasugajera77788/blob/main/Blue%20Futuristic%20Technology%20Presentation%20(Postcards).png" 
-     width="1000" 
+     width="950" 
      height="500" 
      alt="Cyber Security Logo">
 
